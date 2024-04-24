@@ -37,7 +37,7 @@ Game Flow
 
   1. Start the Server: Initiate the server which then broadcasts an offer every second.
   2. Connect Clients: Players start their clients and receive the server's offer.
-  3. Game Play: Each client joins the game over TCP, sending their player names followed by trivia gameplay.
+  3. GamePlay: Each client joins the game over TCP, sending their player names followed by trivia gameplay.
 
 
 ## Project Details
